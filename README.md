@@ -1,2 +1,1 @@
-# MARLEGA-LIFE-STORE
-HQ LIFE
+# dmall256
